@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+opencv-python
+streamlit
+streamlit-option-menu
+PyYAML
