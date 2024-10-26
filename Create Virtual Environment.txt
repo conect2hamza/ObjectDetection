@@ -1,0 +1,8 @@
+Create Virtual Environment:
+	python -m venv obj_venv
+
+Activate Virtual Environment:
+	obj_venv\Scripts\activate
+
+Deactivate Virtual Environment:
+	deactivate
